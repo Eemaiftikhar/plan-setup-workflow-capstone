@@ -12,10 +12,14 @@ This project examines the benefits plan setup workflow at a third-party administ
 - Evaluate an assisted mapping approach for plan language to benefit codes
 - Measure impact on configuration time and accuracy
 
+  - Summarize findings and recommendations for the TPA team
+
 ## Data and Methods
 - Plan documents and configuration records (de-identified)
 - Stakeholder interviews with TPA configuration staff
 - Comparison of manual vs. assisted mapping outcomes
+
+
 
 ## Author
 Eema Iftikhar
